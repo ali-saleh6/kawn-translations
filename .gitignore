@@ -1,0 +1,8 @@
+# translation work-in-progress chunks
+work/
+# python
+__pycache__/
+*.pyc
+# temp
+*.tmp
+*.log
